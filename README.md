@@ -1,4 +1,4 @@
 # MyRep
 This is my first git repository
 <br>
-Author-Tahreem Pasha
+Author-Tahreem Imad Pasha
